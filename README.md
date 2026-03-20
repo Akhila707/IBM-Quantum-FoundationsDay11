@@ -349,7 +349,7 @@ Day 11  ──  ✅  Quantum-Safe Cryptography · LWE · NIST PQC standards
 Day 12  ──  ⬡   Quantum Finance · Portfolio Optimization · QAOA
 ·
 ·
-Day 20  ──  ·   Final push · 50+ applications · LinkedIn article
+Day 20  ──  ·   Final push
 ```
 
 ---
